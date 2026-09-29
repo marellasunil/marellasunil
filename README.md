@@ -6,7 +6,7 @@
 
 I design and build **observability platforms, cloud-native systems, and automation solutions**, with a growing focus on **AI/ML platforms and intelligent operations**.
 
-[🌐 Personal Website](https://my.marellasunil.com/) • [💼 LinkedIn](YOUR-LINKEDIN-URL) • [🚀 FleetAMP](https://github.com/marellasunil/FleetAMP)
+[🌐 Personal Website](https://my.marellasunil.com/) • [💼 LinkedIn](https://www.linkedin.com/in/smarella/) • [🚀 FleetAMP](https://github.com/marellasunil/FleetAMP)
 
 </div>
 
