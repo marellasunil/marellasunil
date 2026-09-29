@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Sunil Marella 👋
 
-<!--
-**marellasunil/marellasunil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Observability Technical Lead & Architect focused on
+OpenTelemetry, Platform Engineering, AIOps, MLOps and AI/ML.
 
-Here are some ideas to get you started:
+🌐 Personal Site: my.marellasunil.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I design and build enterprise observability and platform
+engineering solutions with a strong focus on OpenTelemetry,
+automation, governance and reliability.
+
+My current interests include:
+
+- OpenTelemetry & OpAMP
+- Observability Architecture
+- Platform Engineering
+- AIOps
+- MLOps & ML Platforms
+- AI/ML Architecture
+- Kubernetes & Cloud Native
+
+## 🚀 Open Source
+
+### FleetAMP
+
+An open-source OpenTelemetry/OpAMP fleet management platform.
+
+Features include:
+
+- Collector fleet management
+- Group & label-based deployments
+- Configuration management
+- Drift detection
+- Approval workflows
+- Governance
+- RBAC
+
+➡️ Explore FleetAMP
+
+## 🧪 What I'm Building
+
+- FleetAMP
+- Drift Detection Platform
+- AI/ML Architecture Labs
+- OpenTelemetry Labs
+
+## 📚 Technical Notes & Gists
+
+- OpenTelemetry Collector configurations
+- Kubernetes examples
+- OpAMP configurations
+- Grafana examples
+- Splunk examples
+- MLOps experiments
+
+## 🛠️ Technologies
+
+OpenTelemetry • Kubernetes • AWS • Azure
+Grafana • Splunk • Dynatrace
+Terraform • Ansible • Python • Go
+MLOps • AI/ML
+
+## 🔗 Connect
+
+🌐 Website
+💼 LinkedIn
+🐙 GitHub
