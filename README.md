@@ -6,7 +6,7 @@
 
 I design and build **observability platforms, cloud-native systems, and automation solutions**, with a growing focus on **AI/ML platforms and intelligent operations**.
 
-[🌐 Personal Website](https://my.marellasunil.com/) • [💼 LinkedIn](https://www.linkedin.com/in/smarella/) • [🚀 FleetAMP](https://github.com/marellasunil/FleetAMP)
+[🌐 Personal Website](https://my.marellasunil.com/) • [💼 LinkedIn](https://www.linkedin.com/in/smarella/) • [🚀 OTelPlane](https://otelplane.com)
 
 </div>
 
@@ -36,9 +36,9 @@ I particularly enjoy exploring the intersection of:
 
 ## 🚀 What I'm Building
 
-### 📡 FleetAMP
+### 📡 OTelPlane
 
-**FleetAMP** is an open-source management and governance platform for OpenTelemetry Collectors built around the **Open Agent Management Protocol (OpAMP)**.
+**OTelPlane** is an open-source management and governance platform for OpenTelemetry Collectors built around the **Open Agent Management Protocol (OpAMP)**.
 
 The goal is to simplify operating large OpenTelemetry collector fleets through centralized management and governance.
 
@@ -53,7 +53,7 @@ Current areas include:
 - RBAC & governance
 - Collector inventory and lifecycle management
 
-➡️ [Explore FleetAMP](https://github.com/marellasunil/FleetAMP)
+➡️ [Explore OTelPlane](https://OTelPlane.com)
 
 ---
 
@@ -221,7 +221,7 @@ I'm always interested in discussions around:
 **OpenTelemetry • Observability • Platform Engineering • AIOps • MLOps • AI/ML Architecture • Open Source**
 
 🌐 **Website:** [my.marellasunil.com](https://my.marellasunil.com/)  
-🚀 **FleetAMP:** [github.com/marellasunil/FleetAMP](https://github.com/marellasunil/FleetAMP)  
+🚀 **OTelPlane:** [otelplane](https://otelplane.com)  
 📚 **Gists:** [gist.github.com/marellasunil](https://gist.github.com/marellasunil)
 
 ---
